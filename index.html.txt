@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Abhishek Pareek | Research</title>
 <meta name="description" content="Research page of Abhishek Pareek, Ramanujan Fellow at IISc Bangalore">
@@ -103,8 +99,6 @@
     Indian Institute of Science (IISc), Bengaluru
   </p>
 </header>
-
-<main>
 
 <section>
   <h2>Research Interests</h2>
